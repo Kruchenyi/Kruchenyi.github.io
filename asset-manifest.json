@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-quest/static/css/main.deba2653.css",
+    "main.js": "/react-quest/static/js/main.d0a2dd12.js",
+    "static/media/img1.jpg": "/react-quest/static/media/img1.427180290cd561b7710e.jpg",
+    "index.html": "/react-quest/index.html",
+    "main.deba2653.css.map": "/react-quest/static/css/main.deba2653.css.map",
+    "main.d0a2dd12.js.map": "/react-quest/static/js/main.d0a2dd12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deba2653.css",
+    "static/js/main.d0a2dd12.js"
+  ]
+}
